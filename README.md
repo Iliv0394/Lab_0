@@ -10,8 +10,8 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User can interact with app**
-- [ ] **After hitting the button a hello icon is displayed**
+- [x ] **User can interact with app**
+- [ x] **After hitting the button a hello icon is displayed**
 
 
 ## Video Walkthrough
